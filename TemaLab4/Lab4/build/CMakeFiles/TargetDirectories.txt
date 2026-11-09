@@ -1,3 +1,0 @@
-/home/mio/PAOO/TemaLucrarea4/build/CMakeFiles/CinemaManagement.dir
-/home/mio/PAOO/TemaLucrarea4/build/CMakeFiles/edit_cache.dir
-/home/mio/PAOO/TemaLucrarea4/build/CMakeFiles/rebuild_cache.dir
