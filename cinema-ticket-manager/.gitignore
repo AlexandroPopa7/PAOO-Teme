@@ -1,0 +1,13 @@
+# Build files
+build/
+cmake-build-*/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Compiled files
+*.o
+*.obj
+*.exe
+cinema_app

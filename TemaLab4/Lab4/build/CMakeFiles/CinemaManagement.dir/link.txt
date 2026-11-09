@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/CinemaManagement.dir/main.cpp.o CMakeFiles/CinemaManagement.dir/Film.cpp.o CMakeFiles/CinemaManagement.dir/SalaCinema.cpp.o CMakeFiles/CinemaManagement.dir/Bilet.cpp.o -o CinemaManagement 
